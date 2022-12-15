@@ -436,12 +436,11 @@
   }
   .custom-btn {
     width: 100% !important;
-    margin: 5px;
   }
 
   /* Carousel -------------------------------------------- */
   .carousel-item img {
-    margin: 0 10px;
+    width: 22.5vw;
   }
 
   /* about ------------------------------------------------------ */
@@ -449,7 +448,7 @@
     background-color: #f8f8f8;
   }
   .content-image img {
-    width: 80vw;
+    width: 85vw;
   }
   .content-text {
     margin: 15px 5px;
@@ -486,7 +485,7 @@
     color: #57585d;
   }
   .display-image img {
-    width: 80vw;
+    width: 85vw;
   }
 
   /* all - features ---------------------------------------- */
@@ -494,7 +493,7 @@
     background-color: #0f1017;
   }
   .features-image img {
-    width: 80vw;
+    width: 85vw;
   }
   .features-text h3 {
     font-family: "Poppins", sans-serif;
@@ -530,7 +529,7 @@
     background-color: #0f1017;
   }
   .benefits-image img {
-    width: 80vw;
+    width: 85vw;
   }
   .benefits-text h3 {
     font-family: "Poppins", sans-serif;
@@ -558,6 +557,9 @@
   }
 
   /* Profil ----------------------------------------------------- */
+  .profil-card{
+    align-items: center;
+  }
   .profil-image img {
     background-color: #d9d9d9;
     border-radius: 100%;
@@ -590,11 +592,11 @@
   }
   .profil-column::before {
     content: "";
-    width: 75px;
-    height: 75px;
+    width: 50px;
+    height: 50px;
     border-radius: 100%;
-    top: -27.5px;
-    left: -20px;
+    top: -18px;
+    left: -8px;
     background-color: rgba(225, 72, 23, 0.1);
     position: absolute;
   }
