@@ -361,7 +361,7 @@
   #benefits,
   #profil,
   #setup-conference {
-    padding: 5rem 2rem;
+    padding: 3rem 1rem;
   }
   body {
     overflow-x: hidd;
@@ -432,8 +432,7 @@
     margin: auto;
   }
   #home .home-image img {
-    width: 427px;
-    height: 392px;
+    width: 88vw;
   }
   .custom-btn {
     width: 100% !important;
@@ -442,9 +441,7 @@
 
   /* Carousel -------------------------------------------- */
   .carousel-item img {
-    width: 146px;
-    height: 94px;
-    margin: 1rem 2rem;
+    margin: 0 10px;
   }
 
   /* about ------------------------------------------------------ */
@@ -452,7 +449,7 @@
     background-color: #f8f8f8;
   }
   .content-image img {
-    width: 397px;
+    width: 80vw;
   }
   .content-text {
     margin: 15px 5px;
@@ -489,7 +486,7 @@
     color: #57585d;
   }
   .display-image img {
-    width: 397px;
+    width: 80vw;
   }
 
   /* all - features ---------------------------------------- */
@@ -497,7 +494,7 @@
     background-color: #0f1017;
   }
   .features-image img {
-    width: 397px;
+    width: 80vw;
   }
   .features-text h3 {
     font-family: "Poppins", sans-serif;
@@ -533,7 +530,7 @@
     background-color: #0f1017;
   }
   .benefits-image img {
-    width: 397px;
+    width: 80vw;
   }
   .benefits-text h3 {
     font-family: "Poppins", sans-serif;
@@ -604,7 +601,7 @@
 
   /* Setup Conference ------------------------------------ */
   #setup-conference .card {
-    padding: 5rem;
+    padding: 1.5rem;
     background-color: #953314;
     border: none !important;
     border-radius: 15px;
